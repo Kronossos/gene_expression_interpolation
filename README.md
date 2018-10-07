@@ -1,7 +1,7 @@
 # Gene expression interpolation
 
 
-A program allows constructing spline interpolation for gene expression data.
+Program allows constructing spline interpolation for gene expression data.
 
 
 I used data from the publication: http://msb.embopress.org/content/3/1/72#DC2
